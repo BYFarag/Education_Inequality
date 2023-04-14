@@ -5,7 +5,7 @@ Description : The purpose of this project is to addresses inequality of educatio
 Data: The First data set is the EdGap data set from :  https://www.edgap.org/#4/37.89/-97.00. This data set from 2016 which includes information about average ACT or SAT scores for schools and several socioeconomic characteristics of the school district. The second data set is information about each school from the National Center for Education Statistics. https://nces.ed.gov/ccd/pubschuniv.asp. Dr. Brian Fischer, a professor at Seattle University, had both sets for ready for his students found on his git as well https://github.com/brian-fischer/DATA-3320/tree/main/education
 
 
-The first data set can be found in my  Github repository.
+The first data set can be found in the Github repository.
 
-The second is too large for Github and can be accessed from the dropbox link:
+The second is too large & can be accessed from the dropbox link:
 https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=0. 
