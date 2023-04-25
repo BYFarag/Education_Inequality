@@ -12,8 +12,7 @@ The second is too large & can be accessed from the dropbox link:
 https://www.dropbox.com/s/lkl5nvcdmwyoban/ccd_sch_029_1617_w_1a_11212017.csv?dl=0. 
 
 # Data preparation: 
-The file preparing the data is called: Bayan_Farag_DATA_3320_Education_Inequality.ipynb
-The output files are called: clean_train & clean_test
+The file preparing the data is called: Bayan_Farag_DATA_3320_Education_Inequality.ipynb.  The output files are called: clean_train & clean_test
 
 The standard data cleaning process involves several important steps. Firstly, the source of the data must be identified and all necessary links to data sources provided. The contents of each data set should be inspected for issues such as duplicates, missing values, outliers, and data type inconsistencies.
 
