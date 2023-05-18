@@ -20,3 +20,11 @@ Specfic data types were converted to ensure consistency and avoid errors during 
 
 Missing values were imputed or removed as appropriate. Inaddtion to removal columns were renamed according to best practices. Finally, we created 2 CVS files called 
 clean_train & clean_test. These two files will be used in the analysis in the project & can be found the the repository
+
+# Analysis: 
+The file doing the analysis is called 
+"Bayan Farag Analysis - DATA 3320 Education.ipynb" 
+
+In order to analyze the data and create meaningful plots, specific steps were taken, this included: breaking the problems into smaller subproblems, plotting these subproblems, and leveraging ordinary least squares regression to determine the influential independent variables affecting the dependent variable, "average_act". Additionally, we built a model with a regression line to examine specific independent variables and created a Heat Map to gain comprehensive insights from the dataset.
+
+These steps enabled us to uncover compelling findings, facilitating accurate predictions and culminating in well-grounded conclusions.
